@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['923367402299']
+global.ownernomer = "923367402299"
+global.premium = ['923367402299']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'faheem mod
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,13 +60,13 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
 global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.myyt = 'https://youtube.com/@faheemmod7011'
+global.myytv = 'https://youtube.com/@faheemmod7011'
+global.mygc = "https://chat.whatsapp.com/KIT1YeKfN3e5l212EEM31I"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
+global.botname = 'faheem BOT'
+global.akulaku = 'Bot By faheem'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
